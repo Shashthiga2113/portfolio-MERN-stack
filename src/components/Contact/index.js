@@ -85,7 +85,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Shashthiga,
+          Shobiga,
           <br />
           Bannari Amman Institute of Technology,
           <br />

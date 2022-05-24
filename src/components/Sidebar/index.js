@@ -16,7 +16,7 @@ const Sidebar = () => {
     <div className="nav-bar">
       <Link className="logo" to="/">
         <img src={LogoS} alt="Logo" />
-        <img className="sub-logo" src={LogoSubtitle} alt="slobodan" />
+        
       </Link>
       <nav>
         <NavLink exact="true" activeclassname="active" to="/">
@@ -34,18 +34,10 @@ const Sidebar = () => {
         </NavLink>
       </nav>
       <ul>
+       
         <li>
           <a
-            href="https://www.linkedin.com/in/shashthiga-r-9b590b1a8/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
-          </a>
-        </li>
-        <li>
-          <a
-            href="https://github.com/Shashthiga2113"
+            href="https://github.com/shobiga-it21"
             target="_blank"
             rel="noreferrer"
           >

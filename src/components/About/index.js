@@ -33,7 +33,7 @@ const About = () => {
             />
           </h1>
           <p>
-            Hey I'm Shashthiga and this is my first MERN project!!
+            Hey I'm Shobiga and this is my first MERN project!!
           </p>
           <p align="LEFT">
             Taking Role of Engineering student on Information Technology branch From 
